@@ -124,9 +124,9 @@ public:
   void sliceSequence( Time from, Time to );
 
 private:
-  SequenceT       _source;
-  Output<T>       *_output = nullptr;
   T               *_target = nullptr;
+  Output<T>       *_output = nullptr;
+  SequenceT       _source;
 
   Callback        _finish_fn;
   Callback        _start_fn;
