@@ -27,8 +27,8 @@
 
 #pragma once
 
-#include "choreograph/Phrase.hpp"
-#include "choreograph/Easing.h"
+#include "../Phrase.hpp"
+#include "../Easing.h"
 
 ///
 /// \file

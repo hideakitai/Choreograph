@@ -27,7 +27,7 @@
 
 #pragma once
 
-#include "choreograph/Phrase.hpp"
+#include "../Phrase.hpp"
 
 ///
 /// \file
