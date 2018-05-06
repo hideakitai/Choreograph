@@ -21,17 +21,14 @@
 
 #ifdef min_tmp
 #define min min_tmp
-#undef min_tmp
 #endif
 
 #ifdef max_tmp
 #define max max_tmp
-#undef max_tmp
 #endif
 
 #ifdef abs_tmp
 #define abs abs_tmp
-#undef abs_tmp
 #endif
 
 #endif
