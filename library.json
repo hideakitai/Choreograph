@@ -1,0 +1,20 @@
+{
+    "name": "Choreograph",
+    "keywords": "choreograph,animation,timing",
+    "description": "port Choreograph for Arduino",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/hideakitai/Choreograph.git"
+    },
+    "authors":
+    {
+        "name": "Hideaki Tai",
+        "url": "https://github.com/hideakitai",
+        "maintainer": true
+    },
+    "version": "0.1.0",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
